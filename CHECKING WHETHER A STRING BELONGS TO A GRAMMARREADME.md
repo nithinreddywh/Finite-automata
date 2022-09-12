@@ -1,4 +1,3 @@
-# CHECKING WHETHER A STRING BELONGS TO A GRAMMAR
 #include<stdio.h>
 #include<string.h>
 int main(){
